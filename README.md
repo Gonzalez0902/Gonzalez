@@ -55,23 +55,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-### 📈 Katkı Grafiği
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gonzalez0902/gonzalez0902/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
-
-### 🎯 Ziyaretçi Sayacı
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/gonzalez0902/count.svg" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=G%C3%BCvenlik+bitmez%2C+sadece+d%C3%B6n%C3%BC%C5%9F%C3%BCr." />
-</p>
